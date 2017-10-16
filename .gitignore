@@ -1,0 +1,39 @@
+# Eclipse
+#.classpath
+#.project
+#.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+#Solar
+#Igore solr
+solr/
+
+#Ignore local properties
+localconfig.properties
+test.properties
+
+#Ignore backups
+backup/
+*.bkp
+
+#Ignore logs
+*.log
+*.log*
+*.log*.classpath
+.project
+local.log
+.classpath
+.project
+local.log
+*.log*
